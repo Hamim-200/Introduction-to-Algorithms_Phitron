@@ -7,3 +7,4 @@
 
 * Module_5 - Cycle Detection
 * Module_6 - Dijkstra Algorithm
+* Module_6 - Bellman Ford and Floyed warshall Algorithm
