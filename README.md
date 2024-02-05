@@ -7,4 +7,5 @@
 
 * Module_5 - Cycle Detection
 * Module_6 - Dijkstra Algorithm
-* Module_6 - Bellman Ford and Floyed warshall Algorithm
+* Module_7 - Bellman Ford and Floyed warshall Algorithm
+* Module_8 - [Midterm](https://www.hackerrank.com/contests/mid-term-exam-a-introduction-to-algorithms-a-batch-04/challenges)
