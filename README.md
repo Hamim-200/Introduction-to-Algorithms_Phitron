@@ -9,3 +9,5 @@
 * Module_6 - Dijkstra Algorithm
 * Module_7 - Bellman Ford and Floyed warshall Algorithm
 * Module_8 - [Midterm](https://www.hackerrank.com/contests/mid-term-exam-a-introduction-to-algorithms-a-batch-04/challenges)
+
+* Module_9 - [Problem-Solving](https://docs.google.com/document/d/19iUIdmevLHaan1H-Cj5dHe2d5DqF7mgNuWdthsopn4E/edit)
