@@ -11,3 +11,5 @@
 * Module_8 - [Midterm](https://www.hackerrank.com/contests/mid-term-exam-a-introduction-to-algorithms-a-batch-04/challenges)
 
 * Module_9 - [Problem-Solving](https://docs.google.com/document/d/19iUIdmevLHaan1H-Cj5dHe2d5DqF7mgNuWdthsopn4E/edit)
+
+* Module_10 - Disjoint Set Union
