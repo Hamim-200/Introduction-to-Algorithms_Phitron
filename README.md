@@ -12,4 +12,5 @@
 
 * Module_9 - [Problem-Solving](https://docs.google.com/document/d/19iUIdmevLHaan1H-Cj5dHe2d5DqF7mgNuWdthsopn4E/edit)
 
-* Module_10 - Disjoint Set Union
+* Module_10 - Disjoint Set Union (DSU)
+* Module_11 - DSU Cycle detection and MST
