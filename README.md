@@ -15,3 +15,4 @@
 * Module_10 - Disjoint Set Union (DSU)
 * Module_11 - DSU Cycle detection and MST
 * Module_13 - Basic Graph and Representation Recap
+* Module_14 - [Problem Solving with Graph Algorithms](https://docs.google.com/document/d/1o_rlZBJSEIFr7R_trzeZ71dcoJgxnAFvdA0NBENe1a4/edit) 
