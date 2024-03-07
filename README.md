@@ -19,3 +19,5 @@
 * Module_15 - [Problem Solving with Graph Algorithms-2](https://docs.google.com/document/d/13vw0HM6elkpKiOk2vf3XLWSKl1JMoxmf/edit) 
 * Module_16 - [Assignment-2](https://www.hackerrank.com/contests/assignment-02-a-introduction-to-algorithms-a-batch-04/challenges) 
 
+* Module_17 - Dynamic Programming
+
