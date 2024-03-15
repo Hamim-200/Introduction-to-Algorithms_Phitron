@@ -21,3 +21,8 @@
 
 * Module_17 - Dynamic Programming
 
+* Module_18 -0-1 Knapsack
+* Module_18 -0-1 Knapsack Variation
+
+## GITBOOK - [Gitbook](https://phitron.gitbook.io/algorithm/module_1/_)
+
