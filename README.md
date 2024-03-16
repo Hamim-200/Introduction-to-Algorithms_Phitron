@@ -22,7 +22,8 @@
 * Module_17 - Dynamic Programming
 
 * Module_18 -0-1 Knapsack
-* Module_18 -0-1 Knapsack Variation
+* Module_19 -0-1 Knapsack Variation
+* Module_20 -[Final Exam](https://www.hackerrank.com/contests/final-exam-a-introduction-to-algorithms-a-batch-04/challenges)
 
 ## GITBOOK - [Gitbook](https://phitron.gitbook.io/algorithm/module_1/_)
 
